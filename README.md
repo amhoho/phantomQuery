@@ -23,8 +23,8 @@
 * 添加元素或内容 - append()、prepend()、after()、before()
 * 删除元素或内容 - remove()、empty()
 * 遍历|祖先|同胞|后代|过滤 - 、add()、children()、closest()、each()、end()、eq()、find()、first()、last()、map()、next()、nextAll()、parent()
-* 包裹|替换 - wrap()、wrapAll()、replaceWith()、replaceAll()
-
+* 包裹|替换|判断 - wrap()、wrapAll()、replaceWith()、replaceAll()、hasClass()
+* 事件 - click()
 
 ### 屏幕捕获(png|pdf)
 
